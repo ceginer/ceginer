@@ -42,3 +42,8 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"></a>
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"></a>
 
+
+### 📊 Most used language
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bnfkim&layout=Demo&theme=tokyonight)
+
+
