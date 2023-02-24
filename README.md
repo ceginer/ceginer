@@ -18,9 +18,12 @@ Here are some ideas to get you started:
 ### Hi there 👋
 # 🤠 Byeongwoo Son
 
+
 ### About me
 - 📖 Chung-Ang Univ. / Currently, I take a year off
 - 💻 wanna be back-end developer
+
+
 
 ### 🛠 Languages & Studying
 
