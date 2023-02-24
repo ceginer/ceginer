@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ### Hi there 👋
-# My name is 🤠 Byeongwoo Son
+# 🤠 Byeongwoo Son
 
 ### About me
 - 📖 Chung-Ang Univ.
