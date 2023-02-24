@@ -44,6 +44,6 @@ Here are some ideas to get you started:
 
 
 ### 📊 Most used language
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bnfkim&layout=Demo&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ceginer&layout=Demo&theme=tokyonight)
 
 
