@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 # 🤠 Byeongwoo Son
 
 ### About me
-- 📖 Chung-Ang Univ.
+- 📖 Chung-Ang Univ. / Currently, I take a year off
 - 💻 wanna be back-end developer
-
+- 
 ### 🛠 Languages & Studying
 
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
