@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ### About me
 - 📖 Chung-Ang Univ. / Currently, I take a year off
-- 💻 wanna be back-end developer
+- 💻 wanna be software developer
 
 
 
