@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 
 ### About me
-- 📖 Chung-Ang Univ. / Currently, I take a year off
+- 📖 Chung-Ang Univ.
 - 💻 wanna be software developer
 
 
