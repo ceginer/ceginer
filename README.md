@@ -48,3 +48,4 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ceginer&layout=Demo&theme=tokyonight)
 -->
 
+[![wakatime](https://wakatime.com/badge/user/b97ae33f-9d4f-425d-887a-aa00b87bb75e.svg)](https://wakatime.com/@b97ae33f-9d4f-425d-887a-aa00b87bb75e)
