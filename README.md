@@ -43,9 +43,15 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"></a>
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"></a>
 
-<!--
-### 📊 Most used language
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ceginer&layout=Demo&theme=tokyonight)
--->
 
+### 💖 Keep Studying Hard!
 [![wakatime](https://wakatime.com/badge/user/b97ae33f-9d4f-425d-887a-aa00b87bb75e.svg)](https://wakatime.com/@b97ae33f-9d4f-425d-887a-aa00b87bb75e)
+<br/>
+<br/>
+
+### 📊 Most used language
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ceginer&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
