@@ -46,11 +46,7 @@ Here are some ideas to get you started:
 
 ### 💖 Keep Studying Hard!
 [![wakatime](https://wakatime.com/badge/user/b97ae33f-9d4f-425d-887a-aa00b87bb75e.svg)](https://wakatime.com/@b97ae33f-9d4f-425d-887a-aa00b87bb75e)
-<br/>
-<br/>
-<img src="https://img.shields.io/badge/Studying-3766AB?style=flat-square&logo=Notion&logoColor=white"></a>
-<br/>
-✈️[To developer..](https://www.notion.so/To-Developer-eaab7d36f64d4cb0a83c360d65c82b20)
+### ✈️Notion - [To developer..](https://www.notion.so/To-Developer-eaab7d36f64d4cb0a83c360d65c82b20)
 <br/>
 <br/>
 
