@@ -48,7 +48,6 @@ Here are some ideas to get you started:
 [![wakatime](https://wakatime.com/badge/user/b97ae33f-9d4f-425d-887a-aa00b87bb75e.svg)](https://wakatime.com/@b97ae33f-9d4f-425d-887a-aa00b87bb75e)
 ### ✈️Notion Link to... - [To developer..](https://www.notion.so/To-Developer-eaab7d36f64d4cb0a83c360d65c82b20)
 <br/>
-<br/>
 
 ### 📊 Most used language
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ceginer&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
