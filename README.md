@@ -21,7 +21,8 @@ Here are some ideas to get you started:
 
 ### About me
 - 📖 Chung-Ang Univ.
-- 💻 wanna be software developer
+- 💻 wanna be S/W Engineer!
+- 🤖 Robotics
 
 
 
