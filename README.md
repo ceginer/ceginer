@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ### About me
 - 📖 Chung-Ang Univ.
-- 💻 wanna be S/W Engineer!
+- 💻 S/W Engineer
 - 🤖 Robotics
 
 
