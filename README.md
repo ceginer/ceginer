@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 
 
 ### About me
-- 📖 Chung-Ang Univ.
-- 💻 S/W Engineer
-- 🤖 Robotics
+- 🔧 Department of Mechanical Engineering, Chung-Ang Univ. 
+- 🏭 Intereted in Industrial AI ( Anomaly Detection, PHM, CAE )
+- 💻 AI + Mechanical Domain
 
 
 
