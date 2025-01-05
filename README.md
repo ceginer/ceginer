@@ -21,12 +21,12 @@ Here are some ideas to get you started:
 
 ### About me
 - 🔧 Department of Mechanical Engineering, Chung-Ang Univ. 
-- 🏭 Intereted in Industrial AI ( Anomaly Detection, PHM, CAE )
-- 💻 AI + Mechanical Domain
+- 🏭 Intereted in Industrial AI ( Anomaly Detection, PHM, CAE(Digital twin) )
+- 💻 AI in Mechanical Domain
 
 ### Brief CV 
 - 🖥️ [CS/SW](https://www.notion.so/To-Developer-eaab7d36f64d4cb0a83c360d65c82b20)
-- 📒 [Project CV]([https://www.notion.so/To-Developer-eaab7d36f64d4cb0a83c360d65c82b20](https://www.notion.so/Byeongwoo-Son-4836445d7ec547219f8ddec399de6bb1?pvs=4))
+- 📒 [Project](https://www.notion.so/Byeongwoo-Son-4836445d7ec547219f8ddec399de6bb1?pvs=4)
 
 ### 🛠 Languages & Studying
 
