@@ -24,7 +24,9 @@ Here are some ideas to get you started:
 - 🏭 Intereted in Industrial AI ( Anomaly Detection, PHM, CAE )
 - 💻 AI + Mechanical Domain
 
-
+### Brief CV 
+- 🖥️ [CS/SW](https://www.notion.so/To-Developer-eaab7d36f64d4cb0a83c360d65c82b20)
+- 📒 [Project CV]([https://www.notion.so/To-Developer-eaab7d36f64d4cb0a83c360d65c82b20](https://www.notion.so/Byeongwoo-Son-4836445d7ec547219f8ddec399de6bb1?pvs=4))
 
 ### 🛠 Languages & Studying
 
@@ -51,7 +53,7 @@ Here are some ideas to get you started:
 
 ### 💖 Keep Studying Hard!
 [![wakatime](https://wakatime.com/badge/user/b97ae33f-9d4f-425d-887a-aa00b87bb75e.svg)](https://wakatime.com/@b97ae33f-9d4f-425d-887a-aa00b87bb75e)
-### ✈️Notion Link to... [S/W Ability](https://www.notion.so/To-Developer-eaab7d36f64d4cb0a83c360d65c82b20)
+
 <br/>
 
 ### 📊 Most used language
